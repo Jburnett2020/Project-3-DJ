@@ -1,5 +1,5 @@
 # Project-3-DJ
-<!--
+[//]: # (
 ///////////////////////////////
 ////////erasure poem///////////
 //////Dancing Jellyfishes//////
@@ -154,4 +154,4 @@ Jellyfish[] jellyfishes                [             ]
  o    o          () 
        ();
 
--->
+)
